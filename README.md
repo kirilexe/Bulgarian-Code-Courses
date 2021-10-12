@@ -1,2 +1,4 @@
 # Bulgarian-Code-Courses
-Here are all the basic courses i found. They aren't mine. I am just helping you to find them.
+These courses ARE NOT MINE! I am creating that project to help people out with finding them. 
+
+Credits: UniSoft
