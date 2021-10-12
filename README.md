@@ -1,4 +1,5 @@
-# Bulgarian-Code-Courses
-These courses ARE NOT MINE! I am creating that project to help people out with finding them. 
+# Български курсове
 
-Credits: UniSoft
+Здравейте. Аз не копирам никого. Просто се опитвам да олесня хората които търсят добри български tutorial-и.
+
+Нови неща ще бъдат добавени скоро.
